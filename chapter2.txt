@@ -1,3 +1,4 @@
 CHAPTER TWO
 
-We all know that Bob likes icecream.
+We all know that Bob likes icecream. Sometimes, Bob likes to eat icecream at the
+cafe.
